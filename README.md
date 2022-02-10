@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Draco-of-3000
+- 👋 Hi, I’m Kelvin!
 - 👀 I’m interested in Game Design, UX Design
 - 🌱 I’m currently learning UX Design and Game Development
 - 💞️ I’m looking to collaborate on ...
