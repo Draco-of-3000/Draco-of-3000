@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kelvin!
 - 👀 I’m interested in Game Design, UX Design
-- 🌱 I’m currently learning UX Design and CS50X 
+- 🌱 I’m currently learning UX Design and CS50x
 - 💞️ I’m looking to collaborate on ... (will update soon!)
 - 📫 How to reach me ... kevin.tenisson@gmail.com
 
